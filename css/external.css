@@ -1,12 +1,13 @@
 
 body {background: white repeat-x url("../images/background_gray_grad.jpg");}
 
-h2 { font-family: Arial; font-weight: Bold; font-style: Normal; font-size: 16pt; }
+h2 {font-family: arial; font-weight: bold; font-style: normal; font-size: 16pt; margin-bottom:5px;}
 
-p { font-family: Arial; }
+p {font-family: arial; font-size: 11pt;}
 
-a {color:#D85A1A;
-	text-decoration:none;}
+div {font-family: arial; font-size: 11pt; font-style: italic;}
+
+a {color:#D85A1A; text-decoration:none;}
 
 a:hover, a:active, a:focus {
 	color:white;
