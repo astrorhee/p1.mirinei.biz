@@ -3,32 +3,39 @@
 <html>
 
 <head>
-    <meta charset="UTF-8">
+  <meta charset="UTF-8">
     <!-- - - - - - - - - - - -->
     <!-- Jaehyon Rhee (Jay)  -->
     <!-- September 15, 2013  -->
     <!-- CSCI E-15 Project 1 -->
     <!-- - - - - - - - - - - --> 
-<title>CSCI E-15 :: Project 1 :: Jaehyon Rhee (Jay)</title>
-  <link rel="stylesheet" type="text/css" href="./css/external.css" />
+  <title>CSCI E-15 :: Project 1 :: Jaehyon Rhee (Jay)</title>
+  <link href="./css/external.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
 
-  <table align="center" border="0" cellspacing="0" cellpadding="0" width="1000 pix">
-
+  <table border="0">
   <tr>
-    <td height="20"></td>
-    <td></td>
+    <td style="height:25px;"></td>
   </tr>
+  </table>
+
+<table border="0" width="940" align="center">
+  <tr>
+    <td valign="top" align="center">
+
+
+<div class='window-outer'>
+  <table align="center" border="0" width="900 pix">
 
   <tr>
-    <td width="160"></td>
+    <td style="width:150px;"></td>
     <td><h2>Jaehyon Rhee (Jay)</h2></td>
   </tr>
 
   <tr>
-    <td height="18"></td>
+    <td style="height:5px;"></td>
     <td rowspan="2" align="justify" valign="top">
 	<p> Hello!  My name is Jay, and I am a professional astronomer.  I am currently working as Assistant Scientist 
 		at the <a href="http://www.gemini.edu" target="_blank">Gemini Observatory</a> in Hilo, HI, but in late 
@@ -50,12 +57,21 @@
   </td>
   </tr>
 
-  <tr>
-    <td></td>
-    <td><div>The code editor I am using is Sublime Text 2.</div></td>
-  </tr>
-
   </table>
+</div>
+
+  <table align="center" border="0" width="900 pix">
+  <tr>
+    <td style="width:155px;"></td>
+    <td><p style="font-style: italic;">* The code editor I used to make this webpage was Sublime Text 2.</p></td>
+  </tr>
+  </table>
+
+
+</td>
+</tr>
+</table>
+
 
 </body>
 

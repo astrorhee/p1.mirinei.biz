@@ -1,16 +1,49 @@
 
-body {background: white repeat-x url("../images/background_gray_grad.jpg");}
+body 
+{
+	background: 
+	white repeat-x url("../images/background_gray_grad.jpg");
+}
 
-h2 {font-family: arial; font-weight: bold; font-style: normal; font-size: 16pt; margin-bottom:5px;}
+h2 
+{
+	font-family: arial; 
+	font-weight: bold; 
+	font-style: normal; 
+	font-size: 16pt; 
+	margin-top:7px; 
+	margin-bottom:2px;
+}
 
-p {font-family: arial; font-size: 11pt;}
+p 
+{
+	font-family: arial; 
+	font-size: 11pt; 
+	margin-top:5px; 
+	margin-bottom:10px;
+}
 
-div {font-family: arial; font-size: 11pt; font-style: italic;}
+a 
+{
+	color:#D85A1A; 
+	text-decoration:none;
+}
 
-a {color:#D85A1A; text-decoration:none;}
-
-a:hover, a:active, a:focus {
+a:hover, a:active, a:focus 
+{
 	color:white;
 	background-color:#D85A1A;
 	text-decoration:none;
-	border-bottom:1px dotted white;}
+	border-bottom:1px dotted white;
+}
+
+.window-outer
+{
+    border-radius:10px;
+    border-width:1px;
+    border-color:black;
+    border-style:solid;
+    margin-left:5px;
+    border: 1px solid #BDCAD8;
+    background-color: white;
+}
