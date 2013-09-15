@@ -1,0 +1,16 @@
+
+body {background: white repeat-x url("../images/background_gray_grad.jpg");}
+
+h2 { font-family: Arial; font-weight: Bold; font-style: Normal; font-size: 16pt; }
+
+p { font-family: Arial; }
+
+a {color:#D85A1A;
+	text-decoration:none;}
+
+a:hover, a:active, a:focus {
+	color:white;
+	background-color:#D85A1A;
+	text-decoration:none;
+	border-bottom:1px dotted white;}
+

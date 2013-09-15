@@ -10,21 +10,21 @@
     <!-- CSCI E-15 Project 1 -->
     <!-- - - - - - - - - - - --> 
 <title>CSCI E-15 :: Project 1 :: Jaehyon Rhee (Jay)</title>
-<link rel="stylesheet" type="text/css" href="external.css" />
+<link rel="stylesheet" type="text/css" href="./css/external.css" />
 </head>
 
 <body>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="1000 pix">
+<table align="center" border="1" cellspacing="0" cellpadding="0" width="1000 pix">
 
 <tr>
-  <td height="50"></td>
+  <td height="20"></td>
   <td></td>
 </tr>
 
 <tr>
-  <td width="150"></td>
-  <td>Jaehyon Rhee (Jay)</td>
+  <td width="160"></td>
+  <td><h2>Jaehyon Rhee (Jay)</h2></td>
 </tr>
 
 <tr>
@@ -49,14 +49,16 @@
 
 <tr>
 <td style="line-height: 11pt; vertical-align: 0%" width="40" height="140" align="left">
-    <a href="./images/jrhee_gemini_2013_06_05.jpg" target="_blank">
+    <a href="./images/jrhee_gemini_2013_06_05.jpg"
+    style="background-color:transparent;"
+     target="_blank">
     <img src="./images/jrhee.jpg" alt="J. Rhee" height="140" width="140" style="padding:0" /></a>
 </td>
 </tr>
 
 <tr>
   <td></td>
-  <td><em>The code editor I am using is Sublime Text 2.</em></td>
+  <td><div style="font-family: arial; font-style: italic;">The code editor I am using is Sublime Text 2.</div></td>
 </tr>
 
 </table>
