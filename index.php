@@ -52,7 +52,9 @@
 
             <tr>
               <td style="vertical-align: top;">
-                <a href="./images/jrhee_gemini_2013_06_05.jpg" style="background-color:transparent;" target="_blank">
+                <a href="./images/jrhee_gemini_2013_06_05.jpg" 
+                   style="background-color: transparent; color: transparent; border-bottom: 0px none transparent;" 
+                   target="_blank">
                   <img src="./images/jrhee.jpg" alt="J. Rhee" height="140" width="140" style="padding:0;" /></a>
               </td>
             </tr>
